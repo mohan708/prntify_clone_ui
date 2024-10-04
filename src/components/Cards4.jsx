@@ -18,9 +18,8 @@ const Cards4 = () => {
   return (
    
     <>
-    <div className='bg-[#F7F7F7] mb-28 '>
+    <div className='bg-[#F7F7F7] mb-28'>
       <div className='max-w-[1216px] mx-auto justify-center px-12 py-36'>
-      
       <div className='flex pb-16 text-start items-center gap-4'> 
           <h2 className='w-[38%] leading-snug font-semibold text-[44px]'> Trusted by over 8M sellers around the word</h2>
           <p className='w-[35%] text-slate-400 pl-16'>Whether you are just getting started or run an enterprise-level e-commerce business, we do everything we can to ensure a positive merchant experience.</p>
@@ -84,7 +83,7 @@ const Cards4 = () => {
 
       <div className=' pt-10 pb-8 bg-white w-[500px]  rounded-2xl   px-12 '>
           <div className='flex bg-white gap-6 text-start'>
-            <img src="/public/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
+            <img src="/public/3.jpg"  className='w-16 h-15 rounded-xl' alt="" />
             <div className=''>
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
