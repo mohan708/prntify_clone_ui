@@ -23,25 +23,17 @@ const Card3 = () => {
       </div>
      
 
-   <div className='  w-20 ml-2 mb-2 flex  top-5 left-10'>
+   <div className='w-20 ml-2 mb-2 flex  top-5 left-10'>
 
-   <img src="/public/symbol/sss.png" className='w-28 shadow-custom-360 absolute right-[1px] rounded-xl top-[58px] transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-
-      
-    <img src="/public/symbol/Api.jpg" className='w-28 shadow-custom-360 absolute right-[350px] rounded-xl top-[64px] transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-  
-    <img src="/public/symbol/github-logo.webp" className='shadow-custom-360  left-[400px] top-[20px] absolute top rounded-xl w-24 h-20 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-
-  
-    <img src="/public/symbol/more-logo.png" className='shadow-custom-360 absolute top-[180px] right-[220px] rounded-xl  w-24 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110'  alt="" />
-
+   <img src="/sss.png" className='w-28 shadow-custom-360 absolute right-[1px] rounded-xl top-[58px] transition-transform duration-300 ease-in-out hover:scale-110' alt="" />    
+    <img src="/Api.jpg" className='w-28 shadow-custom-360 absolute right-[350px] rounded-xl top-[64px] transition-transform duration-300 ease-in-out hover:scale-110' alt="" /> 
+    <img src="/github-logo.webp" className='shadow-custom-360  left-[400px] top-[20px] absolute top rounded-xl w-24 h-20 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
+    <img src="/more-logo.png" className='shadow-custom-360 absolute top-[180px] right-[220px] rounded-xl  w-24 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110'  alt="" />
     <img src="/Printify.png" className='shadow-custom-360 absolute  rounded-2xl  top-[130px] left-[535px]  w-[150px]  ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" /> 
-
-
-    <img src="/public/symbol/Shopify-Logo.jpg" className='shadow-custom-360 absolute border-2 top-[450px] right-[440px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-    <img src="/public/symbol/thread.webp" className='shadow-custom-360 border-2 absolute top-[380px] left-[420px] rounded-xl   w-24 h-[80px] ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-    <img src="/public/symbol/Wix.png" className='shadow-custom-360 border-2  absolute top-[320px] right-[80px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-    <img src="/public/symbol/Woo-01.webp" className='shadow-custom-360  top-[380px] left-[40px] rounded-xl absolute w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
+    <img src="/Shopify-Logo.jpg" className='shadow-custom-360 absolute border-2 top-[450px] right-[440px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
+    <img src="/thread.webp" className='shadow-custom-360 border-2 absolute top-[380px] left-[420px] rounded-xl   w-24 h-[80px] ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
+    <img src="/Wix.png" className='shadow-custom-360 border-2  absolute top-[320px] right-[80px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
+    <img src="/Woo-01.webp" className='shadow-custom-360  top-[380px] left-[40px] rounded-xl absolute w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
   
    
    </div>
