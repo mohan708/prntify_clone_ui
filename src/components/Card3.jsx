@@ -35,7 +35,7 @@ const Card3 = () => {
   
     <img src="/public/symbol/more-logo.png" className='shadow-custom-360 absolute top-[180px] right-[220px] rounded-xl  w-24 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110'  alt="" />
 
-    <img src="/public/Printify.png" className='shadow-custom-360 absolute  rounded-2xl  top-[130px] left-[535px]  w-[150px]  ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" /> 
+    <img src="/Printify.png" className='shadow-custom-360 absolute  rounded-2xl  top-[130px] left-[535px]  w-[150px]  ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" /> 
 
 
     <img src="/public/symbol/Shopify-Logo.jpg" className='shadow-custom-360 absolute border-2 top-[450px] right-[440px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
