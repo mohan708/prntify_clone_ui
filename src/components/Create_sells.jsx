@@ -1,7 +1,6 @@
 
-
 import React from 'react';
-import { MdOutlineSlowMotionVideo } from 'react-icons/md';
+// import { MdOutlineSlowMotionVideo } from 'react-icons/md';
 
 
 const Create_sells = () => {
@@ -40,7 +39,7 @@ const Create_sells = () => {
               </button>
 
               <button className="border flex items-center border-slate-400 py-2 px-6 text-lg rounded ml-4">
-                <MdOutlineSlowMotionVideo className="text-2xl" />
+                {/* <MdOutlineSlowMotionVideo className="text-2xl" /> */}
                 <span className="hover:text-green-500 ml-2">How it works?</span>
               </button>
             </div>
