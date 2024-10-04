@@ -2,7 +2,7 @@ import React from 'react'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-// import { MdOutlineStarPurple500 } from "react-icons/md";
+import { MdOutlineStarPurple500 } from "react-icons/md";
 
  
 const Cards4 = () => {
@@ -34,11 +34,11 @@ const Cards4 = () => {
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
                  <div className='flex text-orange-400 text-2xl'>
-                 {/* <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 /> */}
+                 <MdOutlineStarPurple500 />
+                 <MdOutlineStarPurple500 />
                  </div>
             </div>
           </div>           
@@ -52,11 +52,11 @@ const Cards4 = () => {
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
                  <div className='flex text-orange-400 text-2xl'>
-                 {/* <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 /> */}
+                 <MdOutlineStarPurple500 />
+                 <MdOutlineStarPurple500 />
                  </div>
             </div>
           </div>           
@@ -71,11 +71,11 @@ const Cards4 = () => {
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
                  <div className='flex text-orange-400 text-2xl'>
-                 {/* <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 /> */}
+                 <MdOutlineStarPurple500 />
+                 <MdOutlineStarPurple500 />
                  </div>
             </div>
           </div>           
@@ -89,11 +89,11 @@ const Cards4 = () => {
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
                  <div className='flex text-orange-400 text-2xl'>
-                 {/* <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 /> */}
+                 <MdOutlineStarPurple500 />
+                 <MdOutlineStarPurple500 />
                  </div>
             </div>
           </div>           
@@ -107,11 +107,11 @@ const Cards4 = () => {
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
                  <div className='flex text-orange-400 text-2xl'>
-                 {/* <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 /> */}
+                 <MdOutlineStarPurple500 />
+                 <MdOutlineStarPurple500 />
                  </div>
             </div>
           </div>           
