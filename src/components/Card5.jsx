@@ -7,7 +7,7 @@ const Card5 = () => {
 
 
 
-        <div className='py-2  rounded-2xl bg-customColor  ' >
+        <div className='py-2  rounded-2xl bg-customColor'>
                 <div className=' text-start pl-[8%] py-[5%] pr-[57%] text-white' >
                  <h2 className='text-4xl font-semibold'> Make Money, Risk-Free</h2>
                  <p className='py-4'> You pay for fulfillment only when you make a sale</p>
@@ -29,18 +29,12 @@ const Card5 = () => {
                  </div>
 
                  
-                    <button className='bg-green-500 py-1 rounded px-4 my-6'>Start selling</button>
-                 
-
+                    <button className='bg-green-500 py-1 rounded px-4 my-6'>Start selling</button>                
                  <p className='text-slate-300 text-[14px]'>
                  100% Free to use · 900+ Products · Largest print network</p>
-
                 </div>
-
-                <img src="/public/symbol/water.avif" className='absolute top-0 right-24 w-[500px] h-[639px] rounded-xl'  alt="" />
-
+                <img src="/water.avif" className='absolute top-0 right-24 w-[500px] h-[639px] rounded-xl'  alt="" />
         </div>
-
     </div>
 
 

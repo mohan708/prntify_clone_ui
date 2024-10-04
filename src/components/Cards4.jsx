@@ -28,7 +28,7 @@ const Cards4 = () => {
       <Slider {...settings}>
       <div className=' pt-10 pb-8 bg-white w-[500px]   rounded-2xl   px-12 '>
           <div className='flex bg-white gap-6 text-start'>
-            <img src="/public/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
+            <img src="/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
             <div className=''>
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
@@ -46,7 +46,7 @@ const Cards4 = () => {
 
       <div className=' pt-10 pb-8 bg-white w-[500px]  rounded-2xl   px-12 '>
           <div className='flex bg-white gap-6 text-start'>
-            <img src="/public/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
+            <img src="/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
             <div className=''>
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
@@ -65,7 +65,7 @@ const Cards4 = () => {
 
       <div className=' pt-10 pb-8 bg-white w-[500px]  rounded-2xl   px-12 '>
           <div className='flex bg-white gap-6 text-start'>
-            <img src="/public/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
+            <img src="/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
             <div className=''>
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
@@ -83,7 +83,7 @@ const Cards4 = () => {
 
       <div className=' pt-10 pb-8 bg-white w-[500px]  rounded-2xl   px-12 '>
           <div className='flex bg-white gap-6 text-start'>
-            <img src="/public/3.jpg"  className='w-16 h-15 rounded-xl' alt="" />
+            <img src="/3.jpg"  className='w-16 h-15 rounded-xl' alt="" />
             <div className=''>
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
@@ -101,7 +101,7 @@ const Cards4 = () => {
 
       <div className=' pt-10 pb-8 bg-white w-[500px]  rounded-2xl   px-12 '>
           <div className='flex bg-white gap-6 text-start'>
-            <img src="/public/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
+            <img src="/3.jpg"  className='w-16 h-16 rounded-xl' alt="" />
             <div className=''>
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>

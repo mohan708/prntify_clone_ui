@@ -19,7 +19,7 @@ const Card3 = () => {
    <div className=' relative flex py-4 ' >
 
    <div className='logo'>
-         <img src="/public/symbol/bg.jpg" alt="" />
+         <img src="/bg.jpg" alt="" />
       </div>
      
 
