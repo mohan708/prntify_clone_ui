@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { MdOutlineSlowMotionVideo } from 'react-icons/md';
-import './create_sell.css';
+
 
 const Create_sells = () => {
   return (
