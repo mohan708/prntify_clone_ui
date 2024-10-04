@@ -34,11 +34,11 @@ const Cards4 = () => {
                 <h2 className='pb-1 font-bold text-2xl'>Mohan rijal</h2>
                 <p className='pb-2 text-green-500'>Etsy Merchant</p>
                  <div className='flex text-orange-400 text-2xl'>
+                 {/* <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
                  <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 />
-                 <MdOutlineStarPurple500 />
+                 <MdOutlineStarPurple500 /> */}
                  </div>
             </div>
           </div>           
