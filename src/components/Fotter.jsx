@@ -10,7 +10,7 @@ const Fotter = () => {
 <div className='max-w-[1216px] pt-16 pb-8  mx-auto px-4' >
 <div>
         <div className='flex justify-between items-center'>
-            <img src="/public/logo-11.jpeg" className='w-[140px]' alt="" />
+            <img src="/logo-11.jpeg" className='w-[140px]' alt="" />
             <div className=' flex gap-5 ' >            
              <span className='border p-2 rounded-full bg-green-500' > <RxInstagramLogo className='text-white text-xl' />
              </span>

@@ -33,7 +33,7 @@ const Card3 = () => {
     <img src="/Shopify-Logo.jpg" className='shadow-custom-360 absolute border-2 top-[450px] right-[440px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
     <img src="/thread.webp" className='shadow-custom-360 border-2 absolute top-[380px] left-[420px] rounded-xl   w-24 h-[80px] ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
     <img src="/Wix.png" className='shadow-custom-360 border-2  absolute top-[320px] right-[80px] rounded-xl  w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
-    <img src="/Woo-01.webp" className='shadow-custom-360  top-[380px] left-[40px] rounded-xl absolute w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
+    <img src="/woo-01.webp" className='shadow-custom-360  top-[380px] left-[40px] rounded-xl absolute w-40 h-36 ml-2 mb-2 transition-transform duration-300 ease-in-out hover:scale-110' alt="" />
   
    
    </div>
