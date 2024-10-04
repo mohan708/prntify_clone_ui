@@ -1,5 +1,5 @@
 import React from 'react'
-import './create_sell.css'
+
 
 const Cards_1 = () => {
   return (

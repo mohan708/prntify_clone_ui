@@ -7,7 +7,6 @@ import Card3 from './components/Card3';
 import Card5 from './components/Card5';
 import Fotter from './components/Fotter';
 import Cards4 from './components/Cards4';
-
 import './App.css';
 
 function App() {

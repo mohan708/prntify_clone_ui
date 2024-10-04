@@ -2,22 +2,16 @@ import React from 'react'
 import { RxInstagramLogo } from "react-icons/rx";
 import { FaFacebookF,FaGithub,FaLinkedinIn } from "react-icons/fa";
 import { FaXTwitter,FaTiktok,FaSquareYoutube } from "react-icons/fa6";
-import { AiOutlineYoutube } from "react-icons/ai";
-
-
 
 const Fotter = () => {
   return (
 <>
 <div>
 <div className='max-w-[1216px] pt-16 pb-8  mx-auto px-4' >
-
 <div>
-
         <div className='flex justify-between items-center'>
             <img src="/public/logo-11.jpeg" className='w-[140px]' alt="" />
-            <div className=' flex gap-5 ' >
-             
+            <div className=' flex gap-5 ' >            
              <span className='border p-2 rounded-full bg-green-500' > <RxInstagramLogo className='text-white text-xl' />
              </span>
              <span className='border p-2 rounded-full bg-green-500'><FaFacebookF className='text-white text-xl' />
@@ -37,8 +31,6 @@ const Fotter = () => {
             </div>
 
         </div>
-
-
         <div className='flex justify-between text-start px-4 py-20'> 
 
             <div className=''>
