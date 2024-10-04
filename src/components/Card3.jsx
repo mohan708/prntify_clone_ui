@@ -15,11 +15,6 @@ const Card3 = () => {
         <p className='text-slate-400'>Printify easly integrates with major e-commerce platform and marketplace</p>
      </div>
    
-   
-      
-
-
-   
 
    <div className=' relative flex py-4 ' >
 

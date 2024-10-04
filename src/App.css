@@ -16,7 +16,6 @@ body {
 
 
 .main-content{
-
   background: url(/public/background-IAMAETLT.jpg)  ;
   background-size: cover; /* or 'contain' depending on your needs */
   background-position: right top; /* centers the image */
